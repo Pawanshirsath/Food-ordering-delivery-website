@@ -42,12 +42,12 @@ https://drive.google.com/file/d/1nk3veRgif-5Yt2tWjfJD2Ky62QfF3IIO/view?usp=drive
 
 ## Contact Us
 
-For inquiries, suggestions, or if you'd like to access the full source code, please connect with us on [LinkedIn](https://www.linkedin.com/in/your-profile-link/)!
+For inquiries, suggestions, or if you'd like to access the full source code, please connect with us on https://www.linkedin.com/in/pawan-shirsath-402752221/ !
 
 ## Contributors
 
 - Pavan shirsath  
-
+-https://www.linkedin.com/in/pawan-shirsath-402752221/
 We welcome contributions from the open-source community to make this project even better. Feel free to fork the repository and submit pull requests.
 
 ---
